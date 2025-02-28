@@ -54,6 +54,10 @@ TrelloAPI/
     - Update a card.
     - Delete a card.
 
+## 🎥 Project Demo
+Check out the full project demonstration video here:  
+📺 **[Watch Demo](https://drive.google.com/file/d/1h8K0E-ca7SLuP8ylFHmEQ3xWYb6loWyq/view?usp=drive_link)**
+
 This project represents a **significant step in API test automation**, integrating **Postman and Newman** to streamline API validation. Through the implementation of **best practices in API testing**, the project aims to:
 
 - ✅ **Automate Trello API functionalities**, including board, list, and card operations.
